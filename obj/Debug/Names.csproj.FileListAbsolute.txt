@@ -1,0 +1,12 @@
+C:\Users\void_\Downloads\hw4\bin\Debug\names.txt
+C:\Users\void_\Downloads\hw4\bin\Debug\Names.exe.config
+C:\Users\void_\Downloads\hw4\bin\Debug\Names.exe
+C:\Users\void_\Downloads\hw4\bin\Debug\Names.pdb
+C:\Users\void_\Downloads\hw4\bin\Debug\ZedGraph.dll
+C:\Users\void_\Downloads\hw4\bin\Debug\ZedGraph.xml
+C:\Users\void_\Downloads\hw4\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\void_\Downloads\hw4\obj\Debug\Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\void_\Downloads\hw4\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\void_\Downloads\hw4\obj\Debug\Names.csproj.CopyComplete
+C:\Users\void_\Downloads\hw4\obj\Debug\Names.exe
+C:\Users\void_\Downloads\hw4\obj\Debug\Names.pdb
